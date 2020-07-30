@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Class repo files to ignore
+.DS_Store
+config.py
